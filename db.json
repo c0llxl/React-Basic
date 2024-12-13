@@ -1,0 +1,40 @@
+{
+  "route1": [
+    {
+      "success": true,
+      "message": "route1",
+      "data": [],
+      "id": "a0d1"
+    }
+  ],
+  "route2": [
+    {
+      "success": true,
+      "message": "route2",
+      "data": [],
+      "id": "b8ac"
+    }
+  ],
+  "products": [
+    {
+      "title": "Product 2",
+      "price": "9822312312",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "title": "Product 3",
+      "price": 322
+    },
+    {
+      "id": "4",
+      "title": "Product 4",
+      "price": 763
+    },
+    {
+      "id": "5",
+      "title": "Product 5",
+      "price": 389
+    }
+  ]
+}
